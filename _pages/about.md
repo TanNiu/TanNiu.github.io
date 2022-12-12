@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-This is a tentative page for me. 
+I have focused on high performance computing (HPC) since 2002 when I was a Ph.D candidate. In the field of HPC, my research interest includes parallel algorithm and programming, parallel architecture. I also have a keen interest in interdisciplinary research between HPC and  bioinformatics.
 
 My research
 ======
