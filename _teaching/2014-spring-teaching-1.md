@@ -1,10 +1,10 @@
 ---
 title: "High Performance DGEMM on GPUs"
 collection: teaching
-type: ""
+type: "Library"
 permalink: /teaching/2014-spring-teaching-1
-venue: ""
-date: 2014-01-01
+venue: "ICT,CAS"
+date: 2009-01-01
 location: "City, Country"
 ---
 
