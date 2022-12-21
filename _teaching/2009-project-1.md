@@ -2,7 +2,7 @@
 title: "High Performance DGEMM on GPUs"
 collection: teaching
 type: "Library"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2009-project-1
 venue: "ICT,CAS"
 date: 2009-01-01
 location: "City, Country"
