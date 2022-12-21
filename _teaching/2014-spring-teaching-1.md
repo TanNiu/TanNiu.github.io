@@ -30,4 +30,5 @@ When the matrix scale is too large to put into GPU memory, there will be data tr
 The data transfer will lower down the DGEMM performance.
 * What's the bottleneck of large scale DGEMM?
 * What can we do to alleviate data transfer, and make use of GPU more efficiently?
+
 In the project, we focus on solving these problems on both NVIDIA and ATI platforms. 
