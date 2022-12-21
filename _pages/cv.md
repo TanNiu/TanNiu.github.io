@@ -34,5 +34,5 @@ Publications
 Service and leadership
 ======
 * CCF Transactions on High Performance Computing, Managing Editor
-* SC'17-22 PC
+* SC'17-23 PC
 * PPoPP'18-22 PC
