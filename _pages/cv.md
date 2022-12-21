@@ -16,6 +16,9 @@ Education
 
 Work experience
 ======
+* 2006.8-2007.8: Visting Scholar
+  * Computer Architecture and Parallel System Laboratory (CAPSL), University of Delaware
+
 * 2008-2010: Assistant Professor
   * Institute of Computing Technology, Chinese Academy of Sciences
 
